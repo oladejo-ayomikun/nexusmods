@@ -1,0 +1,463 @@
+.ayo{
+    display: block;
+}
+body{
+    background-color: black;
+}
+.img{
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    bottom: 4px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 60px 100%);
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    overflow: hidden;
+     overflow-y: hidden;
+     overflow-x: hidden;
+    width: calc(100%-600px); 
+    max-width: 644px;
+    object-fit: cover;
+    object-position: 0%;
+    height: 95%;
+}
+.collect{
+    position: relative;
+    width: 98%;
+    background-color:#0555b8 ;
+    color: white;
+    border-radius: 4px;
+    height: 40px;
+    align-items: center;
+    display: flex;
+    padding: 16px;
+    font-family: montserrat;
+    cursor: pointer;
+    gap: 12px;
+    font-size: 18px;
+    letter-spacing: 0.15px;
+    background-position: center;
+    text-decoration: none;
+}
+.header{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 20px;
+}
+.src{
+    width: 30px;
+    height: 30px;
+}
+.game{
+    color: white;
+    margin-left: 30px;
+}
+.one{
+    display: flex;
+    color: white;
+}
+.we{
+    color: white;
+    margin-left: 30px;
+    text-decoration: none;
+}
+/* .hover{
+    background-color: black;
+    border: 2px solid orange;
+    color: white;
+    margin-left: 110px;
+    width: 100px;
+    height: 15px;
+    padding: 10px;
+    text-align: center;
+
+} */
+/* .lo:hover{
+    background-color: orange;
+    color: white;
+} */
+.a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.in{
+    padding: 10px;
+    margin-left: 30px;
+}
+.section{
+    background-color: rgb(53, 53, 53);
+    padding: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.for{
+    text-align: center;
+    font-size: larger;
+    color: white;
+}
+.lap{
+    font-size: xx-large;
+}
+.all{
+    background-color: rgb(192, 127, 6);
+    margin-left: 45%;
+    margin-top: 50px;
+    width: 100px;
+    font-size: x-small;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+}
+.lan{
+    color: white;
+   
+    text-decoration: none;
+}
+
+.alt{
+    display: flex;
+    margin-top: 90px;
+}
+.fill{
+    width: 135px;
+    height: 180px;
+    /* margin-left: 30px; */
+    margin-right: 20px;
+}
+.non{
+    display: flex;
+    color: rgb(179, 176, 176);
+    
+}
+.net{
+    color: white;
+    text-decoration: none;
+}
+.p{
+    margin-left: 30px;
+}
+.paren{
+    display: flex;
+}
+.cas{
+    background-color: rgb(179, 122, 16);
+    margin: 20px;
+    padding: 10px;
+    width: 150px;
+    margin-left: 500px;
+}
+.gar{
+    color: white;
+    text-decoration: none;
+    font-size: smaller;
+    font-weight: 300;
+}
+.span{
+    font-size:larger;
+    text-decoration: none;
+}
+.poly{
+    height: 50px;
+}
+.join{
+    display: flex;
+    color: white;
+    /* padding: 30px; */
+    background-image: url("./img/ayo39.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    margin-left: 150px;
+    background-color: black;
+    padding-left: 70px;
+    /* padding: 20px; */
+    filter: blur(5px); /* Adjust the blur intensity as needed*/
+}
+.lar{
+    font-size: larger;
+}
+.reg{
+    margin-left: 300px;
+    padding: 15px;
+    padding-left: 10px;
+    color: white;
+    width: 100px;
+    height: 20px;
+    text-decoration: none;
+    background-color: rgb(192, 128, 8);
+}
+.an{
+    margin-top: 40px;
+    margin-left: 170px;
+    display: flex;
+}
+.rel{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: 500;
+    margin-left: 40px;
+}
+.hover{
+    display: flex;
+    background-color: rgb(32, 31, 31);
+    color: white;
+}
+.hope{
+    background-color: rgb(83, 83, 83);
+}
+h4:hover{
+    background-color: gray;
+    font-size: small;
+}
+.pat{
+    display: flex;
+    color: white;
+}
+.pic{
+    background-image: url("./img/ayo23.jpg");
+    background-position: center;
+    background-color: black;
+}
+.h6{
+    color: orange;
+    text-decoration: none;
+}
+.h7{
+    background-color: orange;
+    color: white;
+    font-size: small;
+    text-decoration: none;
+}
+.htp{
+    color: white;
+    text-decoration: none;
+}
+.week{
+    cursor: pointer;
+    display: flex;
+    background-color: rgb(32, 32, 32);
+    padding: 10px;
+    color: white;
+}
+.our{
+    background-color: rgb(66, 65, 65);
+}
+.made{
+    display: flex;
+    margin-top: 20px;
+    padding: 10px;
+}
+.how{
+    width: 220px;
+    height: 140px;
+}
+.mon{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    padding: 10px;
+}
+.mot{
+    margin-left: 10px;
+    background-color: rgb(46, 43, 43);
+    color: white;
+    padding: 10px;
+}
+.team{
+    font-size: smaller;
+    font-weight: 500;
+}
+.moy{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+.mos{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+.mok{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+.ass{
+    display: flex;
+    font-size: small;
+    font-weight: 500;
+}
+.fil{
+    margin-top: 350px;
+}
+.last{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+.yam{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+.yes{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+.wow{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+.cot{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+.up{
+    display: flex;
+    font-size: small;
+    margin-top: 10px;
+}
+.app{
+    display: flex;
+    font-size: small;
+    margin-top: 10px;
+}
+.more{
+    text-align: center;
+    margin-left: 45%;
+    background-color: rgb(173, 115, 6);
+    margin-top: 10px;
+    width: 200px;
+    padding: 10px;
+    font-size: small;
+}
+.day{
+    text-decoration: none;
+    color: white;
+}
+.lay{
+    background-color: rgb(173, 115, 6);
+    color: white;
+    text-decoration: none;
+    margin-left: 45%;
+    width: 150px;
+    padding: 10px;
+}
+.ok{
+    display: flex;
+    margin-top: 20px;
+}
+.ris{
+    background-color: rgb(66, 65, 65);
+    height: 500px;
+    margin-top: 40px;
+}
+.pis{
+    background-color: rgb(59, 59, 59);
+    height: 300px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.footer{
+    background-color: rgb(27, 26, 26);
+    color: white;
+    
+}
+.yak{
+    display: flex;
+    background-color: rgb(48, 47, 47);
+    border: solid 1px white;
+}
+.h3{
+    margin-left: 30%;
+    /* padding-right: 40px; */
+}
+.nod{
+    margin-top: 20px;
+    /* margin-right: 50px; */
+    margin-left: 20px;
+    color: rgb(105, 104, 104);
+}
+.tis{
+    border: solid 2px orange;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: orange;
+    padding: 10px;
+    text-decoration: none;
+    width: 150px;
+}
+.car{
+    display: flex;
+    padding: 30px;
+
+}
+.pop{
+    display: grid;
+}
+.word{
+    display: flex;
+}
+.pos{
+    display: grid;
+    margin-left: 110px;
+}
+.por{
+    display: grid;
+    margin-left: 110px;
+}
+.pog{
+    display: grid;
+    margin-left: 110px;
+    color: white;
+}
+.pok{
+    display: grid;
+    color: white;
+    margin-left: 90px;
+}
+.col{
+    text-decoration: none;
+    color: rgb(129, 128, 128);
+}
+.sup{
+    font-size: small;
+}
+.top{
+    margin-left: 30px;
+}
+.cal{
+    background-color: rgb(245, 161, 5);
+    padding: 10px;
+    padding-left: 100px;
+    color: white;
+    text-decoration: none;
+}
+.is{
+    width: 275px;
+    height: 150px;
+}
+.why{
+    /* background-color: black; */
+    color: white;
+    border: 2px solid white;
+}
+.ay{
+    color: white;
+    border: 2px solid white;
+    margin-left: 30px;
+}
